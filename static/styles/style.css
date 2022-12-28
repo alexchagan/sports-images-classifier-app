@@ -1,0 +1,97 @@
+body {
+    color:rgb(255, 255, 255);
+    background-image: url(https://r4.wallpaperflare.com/wallpaper/971/967/737/sports-images-for-desktop-background-wallpaper-029bd627e8dee1874a27df91d7810dea.jpg) ;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: din-round,sans-serif;
+    text-align:center;
+    
+} 
+
+h1{
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+}
+
+.desc{
+    font-size: small;
+}
+
+/* CSS */
+.button-19 {
+  appearance: button;
+  background-color: #1899D6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round,sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 10%;
+}
+
+.button-19:after {
+  background-clip: padding-box;
+  background-color: #1CB0F6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-19:main,
+.button-19:focus {
+  user-select: auto;
+}
+
+.button-19:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-19:disabled {
+  cursor: auto;
+}
+
+p {
+    font-size: large;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1;
+  }
+  
+  @supports (background-clip: text) or (-webkit-background-clip: text) {
+    .fancy {
+      background-image: url("data:image/svg+xml,%3Csvg width='2250' height='900' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg%3E%3Cpath fill='%2300A080' d='M0 0h2255v899H0z'/%3E%3Ccircle cx='366' cy='207' r='366' fill='%2300FDCF'/%3E%3Ccircle cx='1777.5' cy='318.5' r='477.5' fill='%2300FDCF'/%3E%3Ccircle cx='1215' cy='737' r='366' fill='%23008060'/%3E%3C/g%3E%3C/svg%3E%0A");
+      background-size: 110% auto;
+      background-position: center;
+      color: transparent;
+      -webkit-background-clip: text;
+      background-clip: text;
+    }
+  }

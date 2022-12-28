@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/style.css')}}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Running prediction</title>
+</head>
+<body>
+    
+    <form action="" method="POST" enctype="multipart/form-data">
+
+        <div>
+            <img src="{{ url_for('static', filename=value) }}" alt="">
+        </div>
+        <input class="button-19" type="submit" name="action" value="predict">
+
+    </form>
+</body>
+</html>

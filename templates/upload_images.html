@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/style.css')}}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Images Classifier</title>
+</head>
+
+<body>
+    <p> <span class="fancy">Sports Classifier</span></p>
+    <h3 class="desc" style="white-space: pre-line"> 
+        This is an application built to demonstrate the capabilities of a CNN model,
+        trained on images of different genres of sports.
+        The user can upload an image of his choise from the local dierctory and test the model
+        Reference: https://github.com/alexchagan/sports-images-classifier   </h3>
+
+    <form action="" method="POST" enctype="multipart/form-data">
+        
+        <div>
+            <input type="file" name="image" id="image">
+        </div>
+        
+        <button class="button-19" role="button" type="submit">Upload</button>
+
+    </form>
+
+
+
+</body>
+</html>

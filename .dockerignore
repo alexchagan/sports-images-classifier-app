@@ -1,0 +1,9 @@
+.venv/
+static/
+.idea/
+.vscode/
+__pycache__/
+.dockerignore
+
+
+
