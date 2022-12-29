@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 
 COPY . .
 
-RUN mkdir /usr/src/app/static
+# RUN mkdir /usr/src/app/static
 
 RUN pip install --upgrade pip && pip install flask gunicorn 
 
