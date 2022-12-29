@@ -32,7 +32,7 @@ A google cloud deployed version of this application can be found here: https://s
 
 ### Built With
 
-* [![Flask][Flask.js]][TensorFlow-url]
+* [![Flask][Flask.js]][Flask-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
