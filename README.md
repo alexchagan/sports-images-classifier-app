@@ -32,7 +32,7 @@ A google cloud deployed version of this application can be found here: https://s
 
 ### Built With
 
-* [![Flask][Flask.js]][Flask-url]
+* [![Flask][Flask]][Flask-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,5 +77,5 @@ Project Link: [https://github.com/alexchagan/sports-images-classifier](https://g
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alex-chagan-a243221b6/
 [Flask-url]: https://flask.palletsprojects.com/en/2.2.x/
-[Flask.js]: https://img.shields.io/badge/-Flask-black
+[Flask]: https://img.shields.io/badge/-Flask-black
 
