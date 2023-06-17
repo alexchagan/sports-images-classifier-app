@@ -22,8 +22,6 @@ The process of training and testing the model is documented in my other reposito
 A google cloud deployed version of this application can be found here: https://sports-classifier-app-7m5cozwema-uc.a.run.app
 
 
-![alt text](https://i.ibb.co/zhndbmN/homepage.png)
-
 ![alt text](https://i.ibb.co/PWggBXX/prediction.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -66,7 +64,7 @@ A google cloud deployed version of this application can be found here: https://s
 <!-- CONTACT -->
 ## Contact
 
-Alex Chagan  - alexchagan95@gmail.com
+Alex Chagan  -- alexchagan95@gmail.com
 
 Project Link: [https://github.com/alexchagan/sports-images-classifier](https://github.com/alexchagan/sports-images-classifier)
 
